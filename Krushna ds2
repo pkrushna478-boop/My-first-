@@ -1,7 +1,5 @@
 import matplotlib.pyplot as plt
 
-<>
-
 # Age group data (based on the sample data)
 
 df = pd.read_csv("/content/API_SP.POP.TOTL_DS2_en_csv_v2_539841[1].csv", skiprows=4)
